@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Sony SRS-XB43 Portable Wireless Bluetooth Speaker",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1570676770859-137ffa9e6b73?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "JBL Charge 5 Portable Waterproof Wireless Bluetooth Speaker",
+    "price": 199.95,
+    "image": "https://images.unsplash.com/photo-1558537348-c0f8e733989d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Ultimate Ears MEGABOOM 3 Portable Wireless Bluetooth Speaker",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1598034989845-48532781987e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE4fHxzcGVha2VyfGVufDB8MHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Anker Soundcore Motion+ Bluetooth Speaker",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxzcGVha2VyfGVufDB8MHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Tribit XSound Go Bluetooth Speaker",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1605648916319-cf082f7524a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMyfHxzcGVha2VyfGVufDB8MHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Bose SoundLink Revolve+ Portable Bluetooth Speaker",
+    "price": 249.0,
+    "image": "https://images.unsplash.com/photo-1567593179124-7835e19fe1e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8"
+  },
+  {
+    "name": "Marshall Stanmore II Bluetooth Speaker",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1619075296689-b151789849c0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU4fHxzcGVha2VyfGVufDB8MHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Sony SRS-XE300 Portable Wireless Bluetooth Speaker",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1643385962136-eb122a33bd87?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c3BlYWtlciUyMHNvbnl8ZW58MHwwfDB8fHww"
+  },
+  {
+    "name": "JBL Flip 6 Portable Waterproof Wireless Bluetooth Speaker",
+    "price": 129.95,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8"
+  },
+  {
+    "name": "Anker Soundcore Flare 2 Portable Wireless Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1667543241047-cd7afd1722f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHNwZWFrZXIlMjBhbmtlcnxlbnwwfDB8MHx8fDA%3D"
+  },
+  {
+    "name": "Sony SRS-XB23 Portable Wireless Bluetooth Speaker with Built-in Microphone",
+    "price": 98.88,
+    "image": "https://images.unsplash.com/photo-1547052178-7f2c5a20c332?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNwZWFrZXIlMjBzb255fGVufDB8MHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "JBL Clip 4 Portable Waterproof Wireless Bluetooth Speaker",
+    "price": 69.95,
+    "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D"
+  },
+  {
+    "name": "Anker Soundcore Life P3 True Wireless Speaker",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1693387593111-124ff0e01e23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNwZWFrZXIlMjBhbmtlcnxlbnwwfDB8MHx8fDA%3D"
+  },
+  {
+    "name": "Sony WF-1000XM4 Industry Leading Noise Cancelling True Wireless Speaker",
+    "price": 278.0,
+    "image": "https://images.unsplash.com/photo-1617766376513-148515e5d3b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNwZWFrZXIlMjBzb255fGVufDB8MHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Anker Soundcore Motion+ Bluetooth Speaker",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1570652279453-c17e3580126c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA4fHxzcGVha2VyfGVufDB8MHwwfHx8MA%3D%3D"
+  }
+]

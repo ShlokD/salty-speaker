@@ -7,10 +7,10 @@ const getPOVScale = (scroll: number) => {
     return 0;
   }
   if (scroll <= 0) {
-    return 1.2;
+    return 1;
   }
 
-  return 1.2 / scroll;
+  return 1 / scroll;
 };
 
 const getPOVBrightness = (scroll: number) => {
@@ -109,7 +109,7 @@ const Home = () => {
         <div
           className={`${
             povAppear ? "opacity-100" : "opacity-0"
-          } absolute self-center text-center flex flex-col gap-12 transition-all`}
+          } absolute self-center text-center flex flex-col gap-12 -mt-12 transition-all`}
           style={{
             transitionDuration: "900ms",
             transform: `translateY(${
@@ -127,7 +127,7 @@ const Home = () => {
               WATCH THE VIDEO
             </button>
             <Link
-              path="/shop"
+              href="/shop"
               className="bg-pink-300 rounded-full p-8 text-4xl"
             >
               SHOP NOW
@@ -432,7 +432,7 @@ const Home = () => {
           <p className="text-pink-300 text-6xl font-bold">
             Experience It Yourself
           </p>
-          <Link path="/shop" className="bg-pink-300 p-8 rounded-full text-4xl">
+          <Link href="/shop" className="bg-pink-300 p-8 rounded-full text-4xl">
             Shop Now
           </Link>
         </div>
